@@ -1,4 +1,4 @@
-# CSGO Player Valuation
+# Counter-Strike: Global Offensive Player Valuation
 This repository contains the accompanying code to "Valuing Player Actions in Esports". The repository is broken down as follows:
 
 - **CSGO\_Process\_Demofile.ipynb** contains code on how to process demofiles to create game state data
