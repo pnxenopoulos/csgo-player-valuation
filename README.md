@@ -3,6 +3,7 @@ This repository contains the accompanying code to "Valuing Player Actions in Esp
 
 - **CSGO\_Process\_Demofile.ipynb** contains code on how to process demofiles to create game state data
 - **CSGO\_Model\_Tuning.ipynb** contains the procedures we used to tune our win probability models
+- **match_list.csv** contains a list of matches used in the study
 - **data** is a directory that contains some example data
 - **models** is a directory that contains the saved models
 
